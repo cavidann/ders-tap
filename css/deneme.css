@@ -1,0 +1,41 @@
+.main {
+    width: 900px;
+    ;
+    margin: 0 auto;
+}
+
+.head .top {
+    background: black;
+    height: 3.3%
+}
+
+.head .middle {
+    background: gray;
+    height: 20%;
+}
+
+.body {
+    margin: 0 auto;
+    background: green;
+    height: 900px;
+    width: 750px;
+}
+
+.footer {
+    background: blue;
+    width: 100%;
+    height: 10.7%;
+}
+
+.duzb {
+    margin-top: 2%;
+    background: gray;
+    height: 150px;
+    width: 200px;
+    float: left;
+}
+
+.mesafe {
+    margin-left: 2%;
+    margin-right: 2%;
+}
